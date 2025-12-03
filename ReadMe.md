@@ -1,68 +1,114 @@
-# ⚙️ Pranav Dakle: The DevOps Automation Catalyst
+# ⚙️ **Pranav Dakle — DevOps Engineer **
 
-## 👨‍💻 My Mission: Engineering Reliability & Speed
-
-I am a **DevOps Engineer** specializing in optimizing the entire software delivery lifecycle. My passion is transforming manual, slow processes into high-speed, reliable, and scalable automated pipelines.
-
-My mantra is simple: **Automate Everything** and achieve continuous improvement.
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge&logo=azuredevops" alt="DevOps Badge" />
+  <img src="https://img.shields.io/badge/Electronics-Engineer-orange?style=for-the-badge&logo=arduino" alt="Electronics Badge" />
+  <img src="https://img.shields.io/badge/IoT%20Developer-green?style=for-the-badge&logo=cloudflare" alt="IoT Badge" />
+</p>
 
 > "It works on my machine" ...and now it works on yours too.
-> Ensuring **99.9% Uptime** so you can sleep easy.
+> 99.9% Uptime, 0.1% Sleep.
+---
 
+## 🚀 **Mission: Building Systems That Never Break**
+
+I'm a **DevOps Engineer** with a strong foundation in **Electronics & Computer Engineering**, enabling me to connect the world of **cloud automation**, **infrastructure reliability**, and **real-world IoT/embedded systems**.
+
+I specialize in turning complex, manual workflows into **fully automated, scalable, and resilient pipelines** that move products from development → deployment → monitoring seamlessly.
+
+> ⚡ “From microcontrollers to cloud systems — if it runs, I can automate it.”
 
 
 ---
 
-## 🛠 Core DevOps & Cloud Expertise
+# 🛠️ **Core Expertise**
 
-I design, build, and maintain the infrastructure that powers high-performing applications across major cloud platforms.
+## ☁️ **Cloud & Infrastructure**
+- **AWS**, **Azure**, **GCP**
+- **Infrastructure as Code:** Terraform, Ansible, Vagrant  
+- **Containers:** Docker, Kubernetes  
+- **Servers:** Nginx, Apache, Tomcat  
 
-### ☁️ Cloud & Infrastructure
-* **Cloud Platforms:** **AWS**, **Azure**, Google Cloud (GCP)
-* **Infrastructure as Code (IaC):** **Terraform**, **Ansible**, Vagrant
-* **Containerization & Orchestration:** **Docker**, **Kubernetes (K8s)**
+## ⚙️ **CI/CD & Automation**
+- Jenkins  
+- GitHub Actions  
+- GitLab CI / Bitbucket  
+- Git, GitOps  
+- Bash, Python, PowerShell  
 
-### 🚀 CI/CD & Automation
-* **Continuous Integration/Delivery:** **Jenkins**, **GitHub Actions**, GitLab CI, Bitbucket
-* **Web & Application Servers:** Nginx, Apache, Apache Tomcat
-* **Monitoring & Observability:** Grafana, Jira, Apache Flink
-
----
-
-## 💻 Comprehensive Technical Stack
-
-A quick look at the tools and languages I use to deliver end-to-end solutions:
-
-| Category | Key Technologies |
-| :--- | :--- |
-| **DevOps Tools** | **Kubernetes (K8s)**, **Docker**, **Jenkins**, **Terraform**, **Ansible**, Git, Vagrant |
-| **Cloud** | **AWS**, **Azure**, Google Cloud, Netlify, Vercel |
-| **Scripting / Programming** | **Python**, **R**, C, C++, PHP, PowerShell, Bash Script |
-| **Databases** | MongoDB, MySQL, MariaDB, MS SQL Server, DynamoDB, Firebase, Supabase |
-| **Web/Backend** | FastAPI, Apache Maven |
-| **Utilities/Design**| Canva, Figma, Windows Terminal, Yarn |
-
-> ### Statistical Powerhouse: R 📊
-> My knowledge of **R** allows for advanced data analysis and scripting, which is invaluable for performance monitoring, generating reports, and integrating data-driven insights into the operational side of DevOps.
+## 🔌 **Electronics, IoT & Embedded Systems**
+- **Microcontrollers:** ESP32, Arduino, STM32, 8051  
+- **IoT Tech:** MQTT, BLE, RFID, GPS, LoRa, UWB  
+- **Sensors & Real-time Data Acquisition**  
+- **Embedded C, Python, RTOS basics**  
+- **Device → Cloud integration pipelines**
 
 ---
 
-## 🌐 Let's Connect
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pranavdakle__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavdakle445@gmail.com) 
+# 💻 **Technical Skill Matrix**
+
+| Category | Technologies |
+|---------|--------------|
+| **DevOps** | Kubernetes, Docker, Jenkins, Terraform, Ansible, Git |
+| **Cloud** | AWS, Azure, GCP, Netlify, Vercel |
+| **Programming** | Python, C, C++, PHP, Bash, PowerShell |
+| **Databases** | MySQL, MongoDB, MariaDB, DynamoDB, Firebase |
+| **Backend / APIs** | FastAPI, Maven |
+| **IoT / Embedded** | ESP32, Arduino, MQTT, Sensors, LoRa |
+| **Tools & Design** | Figma, Canva, Postman, Windows Terminal |
 
 ---
 
-## 📊 GitHub Activity
-Dive into my contributions and projects:
-![](https://github-readme-stats.vercel.app/api?username=Ripcodes&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ripcodes&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ripcodes&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🌐 **Let’s Connect**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ripcodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://instagram.com/Pranavdakle__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:pranavdakle445@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ripcodes&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 📈 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ripcodes&theme=vue-dark&show_icons=true&hide_border=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ripcodes&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripcodes&theme=vue-dark&layout=compact&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+# ✍️ **Random Developer Quote**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+---
+
+# ⭐ **Top Contributions**
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ripcodes&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributors" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ripcodes&icon=0&color=0" alt="Visitor Count" />
+</p>
+
+---
+
+## 📌 Want more?
+I can add:
+- ✅ Projects section (DevOps, Cloud & IoT projects)  
+- ✅ Experience / Timeline section  
+- ✅ Certifications & Coursework  
+- ✅ Short LinkedIn-friendly summary  
+
+Tell me which of the above you want next and I’ll add it directly into this README.
